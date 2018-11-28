@@ -1,1 +1,1 @@
-# Assignments---Machine-Learning-Basic-Principles-Aalto-University---November-2018-
+# Assignments - Machine Learning Basic Principles (Aalto-University - November 2018)
